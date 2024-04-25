@@ -1,0 +1,43 @@
+# Back END
+
+/sistema-facturacion-front-end/node_modules
+/sistema-facturacion-front-end/.env
+
+# Front END
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/sistema-facturacion-front-end/node_modules
+/sistema-facturacion-front-end/.pnp
+/sistema-facturacion-front-end/.pnp.js
+
+# testing
+/sistema-facturacion-front-end/coverage
+
+# next.js
+/sistema-facturacion-front-end/.next/
+/sistema-facturacion-front-end/out/
+
+# production
+/sistema-facturacion-front-end/build
+
+# misc
+/sistema-facturacion-front-end/.DS_Store
+/sistema-facturacion-front-end/*.pem
+
+# debug
+/sistema-facturacion-front-end/npm-debug.log*
+/sistema-facturacion-front-end/yarn-debug.log*
+/sistema-facturacion-front-end/yarn-error.log*
+
+# local env files
+/sistema-facturacion-front-end/.env*.local
+/sistema-facturacion-front-end/.env
+
+# vercel
+/sistema-facturacion-front-end/.vercel
+
+# typescript
+/sistema-facturacion-front-end/*.tsbuildinfo
+/sistema-facturacion-front-end/next-env.d.ts
